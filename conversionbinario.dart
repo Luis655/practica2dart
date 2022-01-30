@@ -1,5 +1,12 @@
 import 'dart:io';
-
+/*
+UNIVERSIDAD TECNOLOGICA METROPOLITANA
+LUIS ALBERTO MACIAS HAU 
+5C TIC-DSM
+Desarrollo móvil multiplataforma
+Joel Ivan Chuc Uc
+PRACTICA 2
+ */
 void main() {
   print("Escriba el numero a transformar a binario");
   String? numbinario = stdin.readLineSync();
