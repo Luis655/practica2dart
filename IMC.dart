@@ -6,6 +6,7 @@ LUIS ALBERTO MACIAS HAU
 Desarrollo móvil multiplataforma
 Joel Ivan Chuc Uc
 PRACTICA 2
+ PARCIAL 1
  */
 void main() {
   print("Escriba su peso en kilogramos y su altura en cm");
